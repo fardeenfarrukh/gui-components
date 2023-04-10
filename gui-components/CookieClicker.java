@@ -1,4 +1,4 @@
-package Assignment5_000906029;
+package gui-components;
 
 import javax.swing.*;
 import java.awt.event.*;
